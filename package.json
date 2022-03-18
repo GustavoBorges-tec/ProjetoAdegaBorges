@@ -1,0 +1,25 @@
+{
+  "name": "projetoadega",
+  "version": "1.0.0",
+  "description": "Projeto de backend para um app de adega",
+  "main": "conexao.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJS",
+    "MySQL",
+    "Backend",
+    "Servidor"
+  ],
+  "author": "Gustavo Borges",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.18.1",
+    "swagger-ui-express": "^4.3.0"
+  }
+}
